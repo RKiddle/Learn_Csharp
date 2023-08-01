@@ -1,0 +1,15 @@
+/home/richard/Documents/vscode_rk/Learn_Csharp/HelloWorld/bin/Debug/net7.0/HelloWorld
+/home/richard/Documents/vscode_rk/Learn_Csharp/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/home/richard/Documents/vscode_rk/Learn_Csharp/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/home/richard/Documents/vscode_rk/Learn_Csharp/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/home/richard/Documents/vscode_rk/Learn_Csharp/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/home/richard/Documents/vscode_rk/Learn_Csharp/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/home/richard/Documents/vscode_rk/Learn_Csharp/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/richard/Documents/vscode_rk/Learn_Csharp/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/home/richard/Documents/vscode_rk/Learn_Csharp/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/home/richard/Documents/vscode_rk/Learn_Csharp/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/richard/Documents/vscode_rk/Learn_Csharp/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/home/richard/Documents/vscode_rk/Learn_Csharp/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/home/richard/Documents/vscode_rk/Learn_Csharp/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/home/richard/Documents/vscode_rk/Learn_Csharp/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/home/richard/Documents/vscode_rk/Learn_Csharp/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
