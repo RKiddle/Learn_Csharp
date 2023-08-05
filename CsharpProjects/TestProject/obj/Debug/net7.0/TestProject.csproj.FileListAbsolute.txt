@@ -1,0 +1,15 @@
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.dll
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.pdb
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.AssemblyReference.cache
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.dll
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.pdb
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/TestProject/obj/Debug/net7.0/ref/TestProject.dll
