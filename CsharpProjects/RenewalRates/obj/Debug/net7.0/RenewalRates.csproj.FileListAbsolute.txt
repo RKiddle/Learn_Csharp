@@ -1,0 +1,15 @@
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/RenewalRates/obj/Debug/net7.0/RenewalRates.csproj.AssemblyReference.cache
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/RenewalRates/obj/Debug/net7.0/RenewalRates.GeneratedMSBuildEditorConfig.editorconfig
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/RenewalRates/obj/Debug/net7.0/RenewalRates.AssemblyInfoInputs.cache
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/RenewalRates/obj/Debug/net7.0/RenewalRates.AssemblyInfo.cs
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/RenewalRates/obj/Debug/net7.0/RenewalRates.csproj.CoreCompileInputs.cache
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/RenewalRates/bin/Debug/net7.0/RenewalRates
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/RenewalRates/bin/Debug/net7.0/RenewalRates.deps.json
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/RenewalRates/bin/Debug/net7.0/RenewalRates.runtimeconfig.json
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/RenewalRates/bin/Debug/net7.0/RenewalRates.dll
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/RenewalRates/bin/Debug/net7.0/RenewalRates.pdb
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/RenewalRates/obj/Debug/net7.0/RenewalRates.dll
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/RenewalRates/obj/Debug/net7.0/refint/RenewalRates.dll
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/RenewalRates/obj/Debug/net7.0/RenewalRates.pdb
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/RenewalRates/obj/Debug/net7.0/RenewalRates.genruntimeconfig.cache
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/RenewalRates/obj/Debug/net7.0/ref/RenewalRates.dll

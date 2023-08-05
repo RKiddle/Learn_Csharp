@@ -1,0 +1,15 @@
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/LogicProject/bin/Debug/net7.0/LogicProject
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/LogicProject/bin/Debug/net7.0/LogicProject.deps.json
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/LogicProject/bin/Debug/net7.0/LogicProject.runtimeconfig.json
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/LogicProject/bin/Debug/net7.0/LogicProject.dll
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/LogicProject/bin/Debug/net7.0/LogicProject.pdb
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/LogicProject/obj/Debug/net7.0/LogicProject.csproj.AssemblyReference.cache
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/LogicProject/obj/Debug/net7.0/LogicProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/LogicProject/obj/Debug/net7.0/LogicProject.AssemblyInfoInputs.cache
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/LogicProject/obj/Debug/net7.0/LogicProject.AssemblyInfo.cs
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/LogicProject/obj/Debug/net7.0/LogicProject.csproj.CoreCompileInputs.cache
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/LogicProject/obj/Debug/net7.0/LogicProject.dll
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/LogicProject/obj/Debug/net7.0/refint/LogicProject.dll
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/LogicProject/obj/Debug/net7.0/LogicProject.pdb
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/LogicProject/obj/Debug/net7.0/LogicProject.genruntimeconfig.cache
+/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/LogicProject/obj/Debug/net7.0/ref/LogicProject.dll
