@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "YCdY9m2VMy46hB00rV4EdCACfTGFcI0zZS/4K385/3dvl2I/hDjDvi1s3sPTwtX+iYB1rtLbwqNi9AqtV6kS+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\az204-auth\\az204-auth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rjk23\\.nuget\\packages\\microsoft.identity.client\\4.55.0\\microsoft.identity.client.4.55.0.nupkg.sha512",
+    "C:\\Users\\rjk23\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512",
+    "C:\\Users\\rjk23\\.nuget\\packages\\microsoft.toolkit.uwp.notifications\\7.0.1\\microsoft.toolkit.uwp.notifications.7.0.1.nupkg.sha512",
+    "C:\\Users\\rjk23\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\rjk23\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,102 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "az204-auth/1.0.0": {
+        "dependencies": {
+          "Microsoft.Identity.Client": "4.55.0",
+          "Microsoft.Toolkit.Uwp.Notifications": "7.0.1",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "az204-auth.dll": {}
+        }
+      },
+      "Microsoft.Identity.Client/4.55.0": {
+        "dependencies": {
+          "Microsoft.IdentityModel.Abstractions": "6.22.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Identity.Client.dll": {
+            "assemblyVersion": "4.55.0.0",
+            "fileVersion": "4.55.0.0"
+          }
+        }
+      },
+      "Microsoft.IdentityModel.Abstractions/6.22.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.IdentityModel.Abstractions.dll": {
+            "assemblyVersion": "6.22.0.0",
+            "fileVersion": "6.22.0.30727"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Uwp.Notifications/7.0.1": {
+        "dependencies": {
+          "System.ValueTuple": "4.5.0"
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Uwp.Notifications.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1.1"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "System.ValueTuple/4.5.0": {}
+    }
+  },
+  "libraries": {
+    "az204-auth/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Identity.Client/4.55.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yjX1mbDvQ0Q1Zfa3REcv21B8Tz8RHTw6yYdDfV282VJwBbQE9CeLEurVbeR6DwjMIq4+/Gegp6Ll82zaWisCwg==",
+      "path": "microsoft.identity.client/4.55.0",
+      "hashPath": "microsoft.identity.client.4.55.0.nupkg.sha512"
+    },
+    "Microsoft.IdentityModel.Abstractions/6.22.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iI+9V+2ciCrbheeLjpmjcqCnhy+r6yCoEcid3nkoFWerHgjVuT6CPM4HODUTtUPe1uwks4wcnAujJ8u+IKogHQ==",
+      "path": "microsoft.identitymodel.abstractions/6.22.0",
+      "hashPath": "microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512"
+    },
+    "Microsoft.Toolkit.Uwp.Notifications/7.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PSLAITi9VDuryL/TDOIm2ndgnLNeUAErNvn6C73Ag9aNl1GfFQuWIFwpZWnvESaE87kgfSw+STUbaCoKurw8yQ==",
+      "path": "microsoft.toolkit.uwp.notifications/7.0.1",
+      "hashPath": "microsoft.toolkit.uwp.notifications.7.0.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "System.ValueTuple/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-okurQJO6NRE/apDIP23ajJ0hpiNmJ+f0BwOlB/cSqTLQlw5upkf+5+96+iG2Jw40G1fCVCyPz/FhIABUjMR+RQ==",
+      "path": "system.valuetuple/4.5.0",
+      "hashPath": "system.valuetuple.4.5.0.nupkg.sha512"
+    }
+  }
+}
