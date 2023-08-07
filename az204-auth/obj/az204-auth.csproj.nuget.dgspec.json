@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\az204-auth\\az204-auth.csproj": {}
+    "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\az204-auth\\az204-auth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\az204-auth\\az204-auth.csproj": {
+    "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\az204-auth\\az204-auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\az204-auth\\az204-auth.csproj",
+        "projectUniqueName": "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\az204-auth\\az204-auth.csproj",
         "projectName": "az204-auth",
-        "projectPath": "C:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\az204-auth\\az204-auth.csproj",
+        "projectPath": "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\az204-auth\\az204-auth.csproj",
         "packagesPath": "C:\\Users\\rjk23\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\az204-auth\\obj\\",
+        "outputPath": "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\az204-auth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rjk23\\AppData\\Roaming\\NuGet\\NuGet.Config",

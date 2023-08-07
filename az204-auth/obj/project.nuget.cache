@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YCdY9m2VMy46hB00rV4EdCACfTGFcI0zZS/4K385/3dvl2I/hDjDvi1s3sPTwtX+iYB1rtLbwqNi9AqtV6kS+g==",
+  "dgSpecHash": "roNUiVLVCBi1ngRshJOnCp7Re8ntyliLkIZiQlWQNC2wCZcTXajgCiA0AitQr2xxU2RKtWBZaI5VN2pWZ/MkWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\az204-auth\\az204-auth.csproj",
+  "projectFilePath": "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\az204-auth\\az204-auth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rjk23\\.nuget\\packages\\microsoft.identity.client\\4.55.0\\microsoft.identity.client.4.55.0.nupkg.sha512",
     "C:\\Users\\rjk23\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512",
