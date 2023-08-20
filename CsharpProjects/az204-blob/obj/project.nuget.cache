@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "8x4O6LcMvn6/0bP1KlaD6Dfdt7UtaL0EbzED+sKAStuy3CuietzQQEfFEr9LqPWg0K2XAwDK6iW6MlTpopWlPg==",
+  "success": true,
+  "projectFilePath": "/home/richard/Documents/vscode_rk/Learn_Csharp/CsharpProjects/az204-blob/az204-blob.csproj",
+  "expectedPackageFiles": [
+    "/home/richard/.nuget/packages/azure.core/1.33.0/azure.core.1.33.0.nupkg.sha512",
+    "/home/richard/.nuget/packages/azure.storage.blobs/12.17.0/azure.storage.blobs.12.17.0.nupkg.sha512",
+    "/home/richard/.nuget/packages/azure.storage.common/12.16.0/azure.storage.common.12.16.0.nupkg.sha512",
+    "/home/richard/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "/home/richard/.nuget/packages/system.diagnostics.diagnosticsource/4.6.0/system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "/home/richard/.nuget/packages/system.io.hashing/6.0.0/system.io.hashing.6.0.0.nupkg.sha512",
+    "/home/richard/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
+    "/home/richard/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/home/richard/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/home/richard/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
+    "/home/richard/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
