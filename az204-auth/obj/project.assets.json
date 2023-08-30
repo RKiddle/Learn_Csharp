@@ -255,11 +255,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\az204-auth\\az204-auth.csproj",
+      "projectUniqueName": "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\az204-auth\\az204-auth.csproj",
       "projectName": "az204-auth",
-      "projectPath": "C:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\az204-auth\\az204-auth.csproj",
+      "projectPath": "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\az204-auth\\az204-auth.csproj",
       "packagesPath": "C:\\Users\\rjk23\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\az204-auth\\obj\\",
+      "outputPath": "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\az204-auth\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rjk23\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -317,7 +317,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
       }
     }
   }
