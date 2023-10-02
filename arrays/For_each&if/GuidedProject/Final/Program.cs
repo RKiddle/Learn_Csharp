@@ -81,7 +81,7 @@ foreach (string name in studentNames)
     currentStudentGrade = (decimal)(sumAssignmentScores) / examAssignments;
 
     if (currentStudentGrade >= 97)
-        currentStudentLetterGrade = "A+";
+        currentStudentLetterGrade = ""; = "A+";
     else if (currentStudentGrade >= 93)
         currentStudentLetterGrade = "A";
     else if (currentStudentGrade >= 90)
@@ -95,9 +95,9 @@ foreach (string name in studentNames)
     else if (currentStudentGrade >= 77)
         currentStudentLetterGrade = "C+";
     else if (currentStudentGrade >= 73)
-        currentStudentLetterGrade = "C";
+        currentStudentLetterGrade= "C";
     else if (currentStudentGrade >= 70)
-        currentStudentLetterGrade = "C-";
+        currentStudentLetterGrade= "C-";
     else if (currentStudentGrade >= 67)
         currentStudentLetterGrade = "D+";
     else if (currentStudentGrade >= 63)
@@ -110,7 +110,7 @@ foreach (string name in studentNames)
     // Student         Grade
     // Sophia:         92.2    A-
     
-    Console.WriteLine($"{currentStudent}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}");
+    Console.WriteLine($"{currentStudent}\t\t{currentStudentGrade}\t{currentStudentGrade}");
 }
 
 // required for running in VS Code (keeps the Output windows open to view results)
