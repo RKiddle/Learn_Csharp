@@ -1,19 +1,25 @@
 {
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "name": "C#: az204-auth",
-            "type": "dotnet",
-            "request": "launch",
-            "projectPath": "${workspaceFolder}\\az204-auth\\az204-auth.csproj",
-            "launchConfigurationId": "TargetFramework=;az204-auth"
-        },
-        {
-            "name": "C#: az204-auth",
-            "type": "dotnet",
-            "request": "launch",
-            "projectPath": "${workspaceFolder}\\az204-auth\\az204-auth.csproj",
-            "launchConfigurationId": "TargetFramework=;az204-auth"
-        }
-    ]
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C#: az204-auth",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}\\az204-auth\\az204-auth.csproj",
+      "launchConfigurationId": "TargetFramework=;az204-auth"
+    },
+    {
+      "name": "C#: az204-auth",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}\\az204-auth\\az204-auth.csproj",
+      "launchConfigurationId": "TargetFramework=;az204-auth"
+    },
+    {
+      "name": "Attach to .NET Functions",
+      "type": "coreclr",
+      "request": "attach",
+      "processId": "${command:azureFunctions.pickProcess}"
+    }
+  ]
 }
