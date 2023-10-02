@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\arrays\\Fraudulent_order\\Fraudulent_order.csproj": {}
+    "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\arrays\\For_each&if\\GuidedProject\\Final\\Final.csproj": {}
   },
   "projects": {
-    "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\arrays\\Fraudulent_order\\Fraudulent_order.csproj": {
+    "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\arrays\\For_each&if\\GuidedProject\\Final\\Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\arrays\\Fraudulent_order\\Fraudulent_order.csproj",
-        "projectName": "Fraudulent_order",
-        "projectPath": "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\arrays\\Fraudulent_order\\Fraudulent_order.csproj",
+        "projectUniqueName": "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\arrays\\For_each&if\\GuidedProject\\Final\\Final.csproj",
+        "projectName": "Final",
+        "projectPath": "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\arrays\\For_each&if\\GuidedProject\\Final\\Final.csproj",
         "packagesPath": "C:\\Users\\rjk23\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\arrays\\Fraudulent_order\\obj\\",
+        "outputPath": "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\arrays\\For_each&if\\GuidedProject\\Final\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rjk23\\AppData\\Roaming\\NuGet\\NuGet.Config",
