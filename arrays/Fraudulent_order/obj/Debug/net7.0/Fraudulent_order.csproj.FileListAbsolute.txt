@@ -1,0 +1,15 @@
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\Fraudulent_order\bin\Debug\net7.0\Fraudulent_order.exe
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\Fraudulent_order\bin\Debug\net7.0\Fraudulent_order.deps.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\Fraudulent_order\bin\Debug\net7.0\Fraudulent_order.runtimeconfig.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\Fraudulent_order\bin\Debug\net7.0\Fraudulent_order.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\Fraudulent_order\bin\Debug\net7.0\Fraudulent_order.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\Fraudulent_order\obj\Debug\net7.0\Fraudulent_order.csproj.AssemblyReference.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\Fraudulent_order\obj\Debug\net7.0\Fraudulent_order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\Fraudulent_order\obj\Debug\net7.0\Fraudulent_order.AssemblyInfoInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\Fraudulent_order\obj\Debug\net7.0\Fraudulent_order.AssemblyInfo.cs
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\Fraudulent_order\obj\Debug\net7.0\Fraudulent_order.csproj.CoreCompileInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\Fraudulent_order\obj\Debug\net7.0\Fraudulent_order.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\Fraudulent_order\obj\Debug\net7.0\refint\Fraudulent_order.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\Fraudulent_order\obj\Debug\net7.0\Fraudulent_order.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\Fraudulent_order\obj\Debug\net7.0\Fraudulent_order.genruntimeconfig.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\Fraudulent_order\obj\Debug\net7.0\ref\Fraudulent_order.dll

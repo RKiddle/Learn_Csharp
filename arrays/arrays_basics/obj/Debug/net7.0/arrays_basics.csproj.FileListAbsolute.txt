@@ -1,0 +1,15 @@
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\arrays_basics\bin\Debug\net7.0\arrays_basics.exe
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\arrays_basics\bin\Debug\net7.0\arrays_basics.deps.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\arrays_basics\bin\Debug\net7.0\arrays_basics.runtimeconfig.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\arrays_basics\bin\Debug\net7.0\arrays_basics.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\arrays_basics\bin\Debug\net7.0\arrays_basics.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\arrays_basics\obj\Debug\net7.0\arrays_basics.csproj.AssemblyReference.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\arrays_basics\obj\Debug\net7.0\arrays_basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\arrays_basics\obj\Debug\net7.0\arrays_basics.AssemblyInfoInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\arrays_basics\obj\Debug\net7.0\arrays_basics.AssemblyInfo.cs
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\arrays_basics\obj\Debug\net7.0\arrays_basics.csproj.CoreCompileInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\arrays_basics\obj\Debug\net7.0\arrays_basics.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\arrays_basics\obj\Debug\net7.0\refint\arrays_basics.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\arrays_basics\obj\Debug\net7.0\arrays_basics.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\arrays_basics\obj\Debug\net7.0\arrays_basics.genruntimeconfig.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\arrays\arrays_basics\obj\Debug\net7.0\ref\arrays_basics.dll
