@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\arrays\\For_each&if\\GuidedProject\\Starter\\Starter.csproj": {}
+    "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\arrays\\For_each&if\\ChallengeProject\\Final\\Final.csproj": {}
   },
   "projects": {
-    "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\arrays\\For_each&if\\GuidedProject\\Starter\\Starter.csproj": {
+    "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\arrays\\For_each&if\\ChallengeProject\\Final\\Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\arrays\\For_each&if\\GuidedProject\\Starter\\Starter.csproj",
-        "projectName": "Starter",
-        "projectPath": "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\arrays\\For_each&if\\GuidedProject\\Starter\\Starter.csproj",
+        "projectUniqueName": "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\arrays\\For_each&if\\ChallengeProject\\Final\\Final.csproj",
+        "projectName": "Final",
+        "projectPath": "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\arrays\\For_each&if\\ChallengeProject\\Final\\Final.csproj",
         "packagesPath": "C:\\Users\\rjk23\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\arrays\\For_each&if\\GuidedProject\\Starter\\obj\\",
+        "outputPath": "c:\\Users\\rjk23\\OneDrive\\Learn_Csharp\\arrays\\For_each&if\\ChallengeProject\\Final\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rjk23\\AppData\\Roaming\\NuGet\\NuGet.Config",
