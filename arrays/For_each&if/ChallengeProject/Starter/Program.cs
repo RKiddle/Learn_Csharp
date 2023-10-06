@@ -87,8 +87,7 @@ foreach (string name in studentNames)
         else
             {
             gradedExtraCreditAssignments += 1;
-            sumExtraCreditScores += score ;
-            }
+            sumExtraCreditScores += score;
     }
 
     currentStudentExamScore = (decimal)(sumExamScores) / examAssignments;

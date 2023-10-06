@@ -1,0 +1,15 @@
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\expressions\bin\Debug\net7.0\expressions.exe
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\expressions\bin\Debug\net7.0\expressions.deps.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\expressions\bin\Debug\net7.0\expressions.runtimeconfig.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\expressions\bin\Debug\net7.0\expressions.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\expressions\bin\Debug\net7.0\expressions.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\expressions\obj\Debug\net7.0\expressions.csproj.AssemblyReference.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\expressions\obj\Debug\net7.0\expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\expressions\obj\Debug\net7.0\expressions.AssemblyInfoInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\expressions\obj\Debug\net7.0\expressions.AssemblyInfo.cs
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\expressions\obj\Debug\net7.0\expressions.csproj.CoreCompileInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\expressions\obj\Debug\net7.0\expressions.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\expressions\obj\Debug\net7.0\refint\expressions.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\expressions\obj\Debug\net7.0\expressions.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\expressions\obj\Debug\net7.0\expressions.genruntimeconfig.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\expressions\obj\Debug\net7.0\ref\expressions.dll
