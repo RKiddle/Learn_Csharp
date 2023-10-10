@@ -1,0 +1,15 @@
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\coin-toss\bin\Debug\net7.0\coin-toss.exe
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\coin-toss\bin\Debug\net7.0\coin-toss.deps.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\coin-toss\bin\Debug\net7.0\coin-toss.runtimeconfig.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\coin-toss\bin\Debug\net7.0\coin-toss.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\coin-toss\bin\Debug\net7.0\coin-toss.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\coin-toss\obj\Debug\net7.0\coin-toss.csproj.AssemblyReference.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\coin-toss\obj\Debug\net7.0\coin-toss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\coin-toss\obj\Debug\net7.0\coin-toss.AssemblyInfoInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\coin-toss\obj\Debug\net7.0\coin-toss.AssemblyInfo.cs
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\coin-toss\obj\Debug\net7.0\coin-toss.csproj.CoreCompileInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\coin-toss\obj\Debug\net7.0\coin-toss.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\coin-toss\obj\Debug\net7.0\refint\coin-toss.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\coin-toss\obj\Debug\net7.0\coin-toss.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\coin-toss\obj\Debug\net7.0\coin-toss.genruntimeconfig.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Logic\coin-toss\obj\Debug\net7.0\ref\coin-toss.dll
