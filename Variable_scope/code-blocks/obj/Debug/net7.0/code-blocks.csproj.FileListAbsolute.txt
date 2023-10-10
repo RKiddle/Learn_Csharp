@@ -1,0 +1,15 @@
+C:\Users\rjk23\OneDrive\Learn_Csharp\Variable_scope\code-blocks\bin\Debug\net7.0\code-blocks.exe
+C:\Users\rjk23\OneDrive\Learn_Csharp\Variable_scope\code-blocks\bin\Debug\net7.0\code-blocks.deps.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\Variable_scope\code-blocks\bin\Debug\net7.0\code-blocks.runtimeconfig.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\Variable_scope\code-blocks\bin\Debug\net7.0\code-blocks.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Variable_scope\code-blocks\bin\Debug\net7.0\code-blocks.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\Variable_scope\code-blocks\obj\Debug\net7.0\code-blocks.csproj.AssemblyReference.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Variable_scope\code-blocks\obj\Debug\net7.0\code-blocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjk23\OneDrive\Learn_Csharp\Variable_scope\code-blocks\obj\Debug\net7.0\code-blocks.AssemblyInfoInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Variable_scope\code-blocks\obj\Debug\net7.0\code-blocks.AssemblyInfo.cs
+C:\Users\rjk23\OneDrive\Learn_Csharp\Variable_scope\code-blocks\obj\Debug\net7.0\code-blocks.csproj.CoreCompileInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Variable_scope\code-blocks\obj\Debug\net7.0\code-blocks.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Variable_scope\code-blocks\obj\Debug\net7.0\refint\code-blocks.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Variable_scope\code-blocks\obj\Debug\net7.0\code-blocks.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\Variable_scope\code-blocks\obj\Debug\net7.0\code-blocks.genruntimeconfig.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Variable_scope\code-blocks\obj\Debug\net7.0\ref\code-blocks.dll
