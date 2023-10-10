@@ -1,0 +1,15 @@
+C:\Users\rjk23\OneDrive\Learn_Csharp\Switch\Implement-a-switch-statement\bin\Debug\net7.0\Implement-a-switch-statement.exe
+C:\Users\rjk23\OneDrive\Learn_Csharp\Switch\Implement-a-switch-statement\bin\Debug\net7.0\Implement-a-switch-statement.deps.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\Switch\Implement-a-switch-statement\bin\Debug\net7.0\Implement-a-switch-statement.runtimeconfig.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\Switch\Implement-a-switch-statement\bin\Debug\net7.0\Implement-a-switch-statement.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Switch\Implement-a-switch-statement\bin\Debug\net7.0\Implement-a-switch-statement.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\Switch\Implement-a-switch-statement\obj\Debug\net7.0\Implement-a-switch-statement.csproj.AssemblyReference.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Switch\Implement-a-switch-statement\obj\Debug\net7.0\Implement-a-switch-statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjk23\OneDrive\Learn_Csharp\Switch\Implement-a-switch-statement\obj\Debug\net7.0\Implement-a-switch-statement.AssemblyInfoInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Switch\Implement-a-switch-statement\obj\Debug\net7.0\Implement-a-switch-statement.AssemblyInfo.cs
+C:\Users\rjk23\OneDrive\Learn_Csharp\Switch\Implement-a-switch-statement\obj\Debug\net7.0\Implement-a-switch-statement.csproj.CoreCompileInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Switch\Implement-a-switch-statement\obj\Debug\net7.0\Implement-a-switch-statement.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Switch\Implement-a-switch-statement\obj\Debug\net7.0\refint\Implement-a-switch-statement.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Switch\Implement-a-switch-statement\obj\Debug\net7.0\Implement-a-switch-statement.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\Switch\Implement-a-switch-statement\obj\Debug\net7.0\Implement-a-switch-statement.genruntimeconfig.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Switch\Implement-a-switch-statement\obj\Debug\net7.0\ref\Implement-a-switch-statement.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Implement-a-switch-statement/1.0.0": {
+        "runtime": {
+          "Implement-a-switch-statement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Implement-a-switch-statement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
