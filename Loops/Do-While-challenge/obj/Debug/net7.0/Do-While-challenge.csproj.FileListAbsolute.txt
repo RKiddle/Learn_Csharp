@@ -1,0 +1,15 @@
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\Do-While-challenge\bin\Debug\net7.0\Do-While-challenge.exe
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\Do-While-challenge\bin\Debug\net7.0\Do-While-challenge.deps.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\Do-While-challenge\bin\Debug\net7.0\Do-While-challenge.runtimeconfig.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\Do-While-challenge\bin\Debug\net7.0\Do-While-challenge.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\Do-While-challenge\bin\Debug\net7.0\Do-While-challenge.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\Do-While-challenge\obj\Debug\net7.0\Do-While-challenge.csproj.AssemblyReference.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\Do-While-challenge\obj\Debug\net7.0\Do-While-challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\Do-While-challenge\obj\Debug\net7.0\Do-While-challenge.AssemblyInfoInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\Do-While-challenge\obj\Debug\net7.0\Do-While-challenge.AssemblyInfo.cs
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\Do-While-challenge\obj\Debug\net7.0\Do-While-challenge.csproj.CoreCompileInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\Do-While-challenge\obj\Debug\net7.0\Do-While-challenge.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\Do-While-challenge\obj\Debug\net7.0\refint\Do-While-challenge.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\Do-While-challenge\obj\Debug\net7.0\Do-While-challenge.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\Do-While-challenge\obj\Debug\net7.0\Do-While-challenge.genruntimeconfig.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\Do-While-challenge\obj\Debug\net7.0\ref\Do-While-challenge.dll
