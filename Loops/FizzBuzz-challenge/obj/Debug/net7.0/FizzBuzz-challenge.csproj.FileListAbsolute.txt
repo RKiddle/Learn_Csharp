@@ -1,0 +1,15 @@
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\FizzBuzz-challenge\bin\Debug\net7.0\FizzBuzz-challenge.exe
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\FizzBuzz-challenge\bin\Debug\net7.0\FizzBuzz-challenge.deps.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\FizzBuzz-challenge\bin\Debug\net7.0\FizzBuzz-challenge.runtimeconfig.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\FizzBuzz-challenge\bin\Debug\net7.0\FizzBuzz-challenge.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\FizzBuzz-challenge\bin\Debug\net7.0\FizzBuzz-challenge.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\FizzBuzz-challenge\obj\Debug\net7.0\FizzBuzz-challenge.csproj.AssemblyReference.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\FizzBuzz-challenge\obj\Debug\net7.0\FizzBuzz-challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\FizzBuzz-challenge\obj\Debug\net7.0\FizzBuzz-challenge.AssemblyInfoInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\FizzBuzz-challenge\obj\Debug\net7.0\FizzBuzz-challenge.AssemblyInfo.cs
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\FizzBuzz-challenge\obj\Debug\net7.0\FizzBuzz-challenge.csproj.CoreCompileInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\FizzBuzz-challenge\obj\Debug\net7.0\FizzBuzz-challenge.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\FizzBuzz-challenge\obj\Debug\net7.0\refint\FizzBuzz-challenge.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\FizzBuzz-challenge\obj\Debug\net7.0\FizzBuzz-challenge.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\FizzBuzz-challenge\obj\Debug\net7.0\FizzBuzz-challenge.genruntimeconfig.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\FizzBuzz-challenge\obj\Debug\net7.0\ref\FizzBuzz-challenge.dll
