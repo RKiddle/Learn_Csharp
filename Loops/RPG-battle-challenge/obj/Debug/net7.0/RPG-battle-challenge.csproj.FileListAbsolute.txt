@@ -1,0 +1,15 @@
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\RPG-battle-challenge\bin\Debug\net7.0\RPG-battle-challenge.exe
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\RPG-battle-challenge\bin\Debug\net7.0\RPG-battle-challenge.deps.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\RPG-battle-challenge\bin\Debug\net7.0\RPG-battle-challenge.runtimeconfig.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\RPG-battle-challenge\bin\Debug\net7.0\RPG-battle-challenge.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\RPG-battle-challenge\bin\Debug\net7.0\RPG-battle-challenge.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\RPG-battle-challenge\obj\Debug\net7.0\RPG-battle-challenge.csproj.AssemblyReference.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\RPG-battle-challenge\obj\Debug\net7.0\RPG-battle-challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\RPG-battle-challenge\obj\Debug\net7.0\RPG-battle-challenge.AssemblyInfoInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\RPG-battle-challenge\obj\Debug\net7.0\RPG-battle-challenge.AssemblyInfo.cs
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\RPG-battle-challenge\obj\Debug\net7.0\RPG-battle-challenge.csproj.CoreCompileInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\RPG-battle-challenge\obj\Debug\net7.0\RPG-battle-challenge.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\RPG-battle-challenge\obj\Debug\net7.0\refint\RPG-battle-challenge.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\RPG-battle-challenge\obj\Debug\net7.0\RPG-battle-challenge.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\RPG-battle-challenge\obj\Debug\net7.0\RPG-battle-challenge.genruntimeconfig.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Loops\RPG-battle-challenge\obj\Debug\net7.0\ref\RPG-battle-challenge.dll
