@@ -1,0 +1,15 @@
+C:\Users\rjk23\OneDrive\Learn_Csharp\DataTypes\obj\Debug\net7.0\DataTypes.csproj.AssemblyReference.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\DataTypes\obj\Debug\net7.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjk23\OneDrive\Learn_Csharp\DataTypes\obj\Debug\net7.0\DataTypes.AssemblyInfoInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\DataTypes\obj\Debug\net7.0\DataTypes.AssemblyInfo.cs
+C:\Users\rjk23\OneDrive\Learn_Csharp\DataTypes\obj\Debug\net7.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\DataTypes\bin\Debug\net7.0\DataTypes.exe
+C:\Users\rjk23\OneDrive\Learn_Csharp\DataTypes\bin\Debug\net7.0\DataTypes.deps.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\DataTypes\bin\Debug\net7.0\DataTypes.runtimeconfig.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\DataTypes\bin\Debug\net7.0\DataTypes.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\DataTypes\bin\Debug\net7.0\DataTypes.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\DataTypes\obj\Debug\net7.0\DataTypes.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\DataTypes\obj\Debug\net7.0\refint\DataTypes.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\DataTypes\obj\Debug\net7.0\DataTypes.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\DataTypes\obj\Debug\net7.0\DataTypes.genruntimeconfig.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\DataTypes\obj\Debug\net7.0\ref\DataTypes.dll
