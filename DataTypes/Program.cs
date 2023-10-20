@@ -65,7 +65,6 @@ if (result > 0)
     Console.WriteLine($"Measurement (w/ offset): {50 + result}");
 */
 
-string[] values = { "12.3", "45", "ABC", "11", "DEF" };
 
 /*
 Rule 1: If the value is alphabetical, concatenate it to form a message.
@@ -77,3 +76,20 @@ Message: ABCDEF
 Total: 68.3
 */
 
+string[] values = { "12.3", "45", "ABC", "11", "DEF" };
+float total = 0;
+string message = "";
+
+foreach (string value in values)
+{
+    if (float.TryParse(value, out float result))
+    {
+        total += result;
+    }
+    else
+    {
+        message += value;  
+    }
+}
+Console.WriteLine($"Message: {message}");
+Console.WriteLine($"Total: {total}");
