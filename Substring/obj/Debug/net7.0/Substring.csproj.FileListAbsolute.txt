@@ -1,0 +1,14 @@
+C:\Users\rjk23\OneDrive\Learn_Csharp\Substring\bin\Debug\net7.0\Substring.exe
+C:\Users\rjk23\OneDrive\Learn_Csharp\Substring\bin\Debug\net7.0\Substring.deps.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\Substring\bin\Debug\net7.0\Substring.runtimeconfig.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\Substring\bin\Debug\net7.0\Substring.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Substring\bin\Debug\net7.0\Substring.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\Substring\obj\Debug\net7.0\Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjk23\OneDrive\Learn_Csharp\Substring\obj\Debug\net7.0\Substring.AssemblyInfoInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Substring\obj\Debug\net7.0\Substring.AssemblyInfo.cs
+C:\Users\rjk23\OneDrive\Learn_Csharp\Substring\obj\Debug\net7.0\Substring.csproj.CoreCompileInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Substring\obj\Debug\net7.0\Substring.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Substring\obj\Debug\net7.0\refint\Substring.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Substring\obj\Debug\net7.0\Substring.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\Substring\obj\Debug\net7.0\Substring.genruntimeconfig.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Substring\obj\Debug\net7.0\ref\Substring.dll
