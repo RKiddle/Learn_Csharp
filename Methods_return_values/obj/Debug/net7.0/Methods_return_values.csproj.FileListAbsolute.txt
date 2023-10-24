@@ -1,0 +1,14 @@
+C:\Users\rjk23\OneDrive\Learn_Csharp\Methods_return_values\bin\Debug\net7.0\Methods_return_values.exe
+C:\Users\rjk23\OneDrive\Learn_Csharp\Methods_return_values\bin\Debug\net7.0\Methods_return_values.deps.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\Methods_return_values\bin\Debug\net7.0\Methods_return_values.runtimeconfig.json
+C:\Users\rjk23\OneDrive\Learn_Csharp\Methods_return_values\bin\Debug\net7.0\Methods_return_values.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Methods_return_values\bin\Debug\net7.0\Methods_return_values.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\Methods_return_values\obj\Debug\net7.0\Methods_return_values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjk23\OneDrive\Learn_Csharp\Methods_return_values\obj\Debug\net7.0\Methods_return_values.AssemblyInfoInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Methods_return_values\obj\Debug\net7.0\Methods_return_values.AssemblyInfo.cs
+C:\Users\rjk23\OneDrive\Learn_Csharp\Methods_return_values\obj\Debug\net7.0\Methods_return_values.csproj.CoreCompileInputs.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Methods_return_values\obj\Debug\net7.0\Methods_return_values.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Methods_return_values\obj\Debug\net7.0\refint\Methods_return_values.dll
+C:\Users\rjk23\OneDrive\Learn_Csharp\Methods_return_values\obj\Debug\net7.0\Methods_return_values.pdb
+C:\Users\rjk23\OneDrive\Learn_Csharp\Methods_return_values\obj\Debug\net7.0\Methods_return_values.genruntimeconfig.cache
+C:\Users\rjk23\OneDrive\Learn_Csharp\Methods_return_values\obj\Debug\net7.0\ref\Methods_return_values.dll
